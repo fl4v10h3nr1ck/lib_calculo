@@ -1,0 +1,5 @@
+
+
+
+correcao na funcao getnumero. ao informar um string sem nenhum numero ex: "flavio" a
+ funcao retornava um string vazia em vez de "0".
